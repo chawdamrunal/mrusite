@@ -1,0 +1,29 @@
+.elementor-2936 .elementor-element.elementor-element-125af3b > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-2936 .elementor-element.elementor-element-125af3b:not(.elementor-motion-effects-element-type-background), .elementor-2936 .elementor-element.elementor-element-125af3b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #313552;}
+.elementor-2936 .elementor-element.elementor-element-125af3b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 70px 45px 70px 45px;}
+.elementor-2936 .elementor-element.elementor-element-125af3b > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-2936 .elementor-element.elementor-element-7b254b6 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-2936 .elementor-element.elementor-element-77ede16 {text-align: center;}
+.elementor-2936 .elementor-element.elementor-element-77ede16 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 30px 0px 0px;}
+.elementor-2936 .elementor-element.elementor-element-8bdfdd7 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 .growth-text-box {text-align: left;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 .growth-text-box .top-title {font-family: "HK Grotesk",Sans-serif;font-size: 14px;font-weight: 600;text-transform: uppercase;color: #ffc576;margin: 0px 0px 15px 0px;padding: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 .top-title {text-align: left;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 .growth-text-box .title {font-family: "Playfair Display",Sans-serif;font-size: 40px;font-weight: 700;color: #fff;margin: 0px 0px 30px 0px;padding: 0px 0px 0px 0px;text-align: left;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 .growth-text-box .desc {font-family: "HK Grotesk",Sans-serif;font-size: 16px;color: #fff;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;text-align: left;}
+.elementor-2936 .elementor-element.elementor-element-5ef98d8 > .elementor-widget-container {margin: 0px 0px 40px 0px;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button {color: #ffc576;padding: 10px 40px 10px 40px;border-style: solid;border-width: 1px 1px 1px 1px;border-color: #ffc576;border-radius: 3px 3px 3px 3px;display: inline-block;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 {margin: 0px 0px 0px 0px;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button:hover {color: #1f2235;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button:before {background-color: #ffc576;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button .button-text .button-title {font-family: "HK Grotesk",Sans-serif;font-size: 14px;font-weight: 600;text-transform: uppercase;color: #ffc576;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button:hover .button-text .button-title {color: #1f2235;}
+.elementor-2936 .elementor-element.elementor-element-002b5a0 .arrow-button .button-text {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-2936 .elementor-element.elementor-element-77ede16 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 30px 0px;}}
+@media (min-width:768px) {.elementor-2936 .elementor-element.elementor-element-7b254b6 {width: 50.192%;}
+	.elementor-2936 .elementor-element.elementor-element-8bdfdd7 {width: 49.808%;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-2936 .elementor-element.elementor-element-7b254b6 {width: 100%;}
+	.elementor-2936 .elementor-element.elementor-element-8bdfdd7 {width: 100%;}}
+@media (max-width:767px) {.elementor-2936 .elementor-element.elementor-element-125af3b {padding: 30px 30px 30px 30px;}
+	.elementor-2936 .elementor-element.elementor-element-77ede16 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 10px 0px;}
+	.elementor-2936 .elementor-element.elementor-element-5ef98d8 .growth-text-box .title {font-size: 20px;line-height: 30px;}}
